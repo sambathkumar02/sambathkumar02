@@ -1,9 +1,7 @@
 # Hi I'm Sambath Kumar 👋
-# I'm an Network security Engineer and  Web pentester.
- **- - 🔭 I’m currently working on  Network Security **
-  **- - 🌱 I’m currently learning Diffrent attack strategies on Network and Web. ** 
-  **- - Find me here [**--Twitter**](https://twitter.com/sambathk_crazy) ** 
-
+# I'm an Network security Engineer and  Web pentester
+## Find me Here [**--Twitter**](https://twitter.com/sambathk_crazy)
+ 
 
 <!--
 **sambathkumar02/sambathkumar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
