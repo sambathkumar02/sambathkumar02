@@ -29,6 +29,25 @@
 
 ---
 
+ # Expertised Tools
+ 
+ <p align="left">
+
+  <div align="left">
+  
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+  <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/cisco.png?alt=media&token=843d1bec-ebd5-4401-9936-bf5af8d3f810"></code>
+  <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/docker.png?alt=media&token=9dda02ac-7f7d-49e7-a147-6e33ccaf7ee9"></code>
+  <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/linux.png?alt=media&token=2c4ea8ca-05fb-4645-abe3-a998c4bd16b6"></code>
+  <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/9165634fec8f-article-enterprise_logo_-_article.png?alt=media&token=5056d019-5e96-43a9-b6bb-e18f4bfa07b5"></code>
+
+  </div>
+  </p>
+
 <br/>
 <a href="https://twitter.com/sambathk_crazy">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
