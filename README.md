@@ -22,7 +22,7 @@
   <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/cisco.png?alt=media&token=843d1bec-ebd5-4401-9936-bf5af8d3f810"></code>
   <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/docker.png?alt=media&token=9dda02ac-7f7d-49e7-a147-6e33ccaf7ee9"></code>
   <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/linux.png?alt=media&token=2c4ea8ca-05fb-4645-abe3-a998c4bd16b6"></code>
-  <code><img height="40" src=""></code>
+  <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/9165634fec8f-article-enterprise_logo_-_article.png?alt=media&token=5056d019-5e96-43a9-b6bb-e18f4bfa07b5"></code>
 
   </div>
   </p>
