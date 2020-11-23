@@ -1,8 +1,8 @@
 # Hi I'm Sambath Kumar 👋
 # I'm an Network security Engineer and  Web pentester
-## Find me on Social Media [**--Twitter**](https://twitter.com/sambathk_crazy)
-[TOCM]
-[Twitter](https://twitter.com/sambathk_crazy "Twitter")
+## Follow me on 
+## [**--Twitter**](https://twitter.com/sambathk_crazy)
+## [**Instagram**](https://www.instagram.com/sk_devil_002/)
  
 
 <!--
