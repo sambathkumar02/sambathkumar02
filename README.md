@@ -1,14 +1,14 @@
-# Hi I'm Sambath Kumar 👋
+# Hi I'm Sambath Kumar | சம்பத் குமார் 👋
 # I'm an Cyber security Engineer.
 
 
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<img src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Favatar.gif?alt=media&token=d5846c37-dd60-407f-9c95-35f72e18c874" width="400px" />
 <br>
 </div>
   
   
- # Known Techs
+ # Known techs
 
 <p align="left">
 
