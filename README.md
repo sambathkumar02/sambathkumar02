@@ -8,69 +8,71 @@
 </div>
   
   
- # Known techs
+ # Programming Languages
 
-<p align="left">
 
-  <div align="left">
-  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-  <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/cisco.png?alt=media&token=843d1bec-ebd5-4401-9936-bf5af8d3f810"></code>
-  <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/docker.png?alt=media&token=9dda02ac-7f7d-49e7-a147-6e33ccaf7ee9"></code>
-  <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/linux.png?alt=media&token=2c4ea8ca-05fb-4645-abe3-a998c4bd16b6"></code>
- 
-
-  </div>
-  </p>
-
----
-
- # Expertised Tools
- 
- <p align="left">
 
   <div align="left">
   
- 
-  <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/9165634fec8f-article-enterprise_logo_-_article.png?alt=media&token=5056d019-5e96-43a9-b6bb-e18f4bfa07b5"></code>
-  <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/wireshark-1.png?alt=media&token=6e30e615-1d0b-454d-9949-4404ccaf4edd"></code>
-  <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/metasploit_logo-300x300.png?alt=media&token=7482eaf1-f346-4a26-9561-e4765fd70daf"></code>
-  <code><img height="40" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/120px-Virtualbox_logo.png?alt=media&token=8568d288-45aa-4308-b47a-0ebad4c81b02"></code>
-
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2FC.png?alt=media&token=8aa040df-3d14-4977-bcfe-eb1ee3db0b9d">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2FGo-Logo_Aqua.png?alt=media&token=384cf61f-d11e-4805-8414-117f84bcdc12" style="border: none;">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fassembly.png?alt=media&token=9208f2f1-64b9-4cd0-a344-77f4465a0feb">
+  
   </div>
-  </p>
-
-
+  
+  
+  # Technologies and Tools
+  
+  <div align="left">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2FGit.png?alt=media&token=685c8a8d-203f-4457-a3fb-ccfc24abeadd">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Flinux.png?alt=media&token=80bf5266-b6cc-4adc-8351-144e3338e770">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fdocker.png?alt=media&token=f81ca847-6526-4071-84db-69d8af2c3d06">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Faws.png?alt=media&token=74f52f63-4d3b-4397-bda1-c783ee58b8c1">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fgcp.png?alt=media&token=02e68ef3-80ad-4e42-a255-82d15b355d62">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fburp.png?alt=media&token=62ad7efe-91ef-43a7-a29a-88e8a06aec7b">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fmetasploit.png?alt=media&token=1b069cd2-0eed-435f-8c22-db66355713a5">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fnmap.png?alt=media&token=09d93354-f607-4373-87d3-ba5bdd318841">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fwireshark.png?alt=media&token=24d8ea7c-7cec-4670-a615-1f423381f8ad">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fnginx.png?alt=media&token=bdefd16c-5185-433c-98e9-e7b15ed37a20">
+  
+  </div>
+  
+  # Databases
+  
+  <div align="left">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Foracle.png?alt=media&token=adfbe298-31ab-457f-a985-591868fdd80d">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fpostgres.png?alt=media&token=f2fe59db-d954-4ffb-8534-528239bcf565">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fmongodb.png?alt=media&token=8bfe0fef-e49a-499b-9cca-6d35f4242a39">
+  
+  
+  </div>
+  
+  # Frameworks and Libraries
+  <div align="left">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fflask.png?alt=media&token=ec57f670-3061-489d-a2ae-2f7a889d32c8">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fdjango.png?alt=media&token=ebec7235-a137-4232-944e-0babd797a6dc">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fscapy_logo.png?alt=media&token=8081455e-7df0-49e1-b2de-c94d9d84a8a3">
+  <img height="50" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fsqlalchemy_series_redo.png?alt=media&token=f3c5b64e-7700-4cde-abda-1d00523a8e58">
+  
+  </div>
+  
+  
+  
  # Find me here
 
 <br/>
 <a href="https://twitter.com/sambathk_crazy">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img height="50"align="left" alt="Hemant Joshi| Twitter"  src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Ftwitter(1).png?alt=media&token=3aabbb8a-cc1a-4a79-85d9-79f81b89f5d6" />
 </a>
 <a href="https://www.linkedin.com/in/sambath-kumar-3131671b8/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img height="50" align="left" alt="Linkedin"  src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Flinkedin.png?alt=media&token=297e58c8-f01c-4635-ac5a-4581f03d7654" />
 </a>
 <a href="https://www.instagram.com/sk_devil_002/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img height="50" align="left" alt="Instagram"  src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Finstagram(1).png?alt=media&token=56582db7-b34d-490e-811f-2c897e542429" />
 </a>
 
 
 
-<!--
-**sambathkumar02/sambathkumar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Diffrent attack strategies on Network and Web.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Cyber security.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
